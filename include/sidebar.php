@@ -3,7 +3,7 @@
     <div class="sidebar-brand">
         <!--begin::Brand Link-->
         <a href="./index.html" class="brand-link">
-        <!--begin::Brand Image-->
+        <!--begin::Brand Imag-->
         <img src="./assets/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image opacity-75 shadow" />
           <!--end::Brand Image-->
           <!--begin::Brand Text-->
